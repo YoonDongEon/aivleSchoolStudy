@@ -408,7 +408,7 @@ ultralytics==8.0.231
 Unidecode==1.2.0
 urllib3==1.26.16
 validators==0.22.0
-versioneer==0.10
+versioneer==0.29
 w3lib==1.21.0
 watchdog==2.1.6
 wcwidth==0.2.5
