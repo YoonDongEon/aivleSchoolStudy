@@ -1,3 +1,4 @@
+pip==23.3.2
 absl-py==2.0.0
 aiobotocore==2.4.2
 aiofiles==22.1.0
@@ -242,7 +243,6 @@ pep8==1.7.1
 pexpect==4.8.0
 pickleshare==0.7.5
 Pillow==10.1.0
-pip==23.3.2
 pkginfo==1.9.6
 platformdirs==2.5.2
 plotly==5.9.0
